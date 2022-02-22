@@ -5,5 +5,5 @@ window.geometry("250x250")
 window.title("Aplikace v1.0 beta")
 label1 = tk.Label(text="Ahoj!")
 label1.pack()
-# 2
+# 3
 window.mainloop()
