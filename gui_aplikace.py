@@ -1,9 +1,22 @@
 import tkinter as tk
 
 window = tk.Tk()
-window.geometry("250x250")
-window.title("Aplikace v1.0 beta")
-label1 = tk.Label(text="Ahoj!")
+window.geometry("200x200")
+window.title("Test")
+
+"""
+Label
+Entry
+Button
+Text
+
+"""
+
+label1 = tk.Label(
+    text="Moje applikace",
+    background="black",
+    foreground="white"
+)
 label1.pack()
-# 3
+
 window.mainloop()
