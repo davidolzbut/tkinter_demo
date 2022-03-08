@@ -1,4 +1,4 @@
-import tkinter as tk
+import tkinter_demo as tk
 
 root = tk.Tk()
 

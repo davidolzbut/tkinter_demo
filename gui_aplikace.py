@@ -1,5 +1,5 @@
-import tkinter as tk
-from tkinter import messagebox
+import tkinter_demo as tk
+from tkinter_demo import messagebox
 
 
 def get_user_input():
